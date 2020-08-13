@@ -5,7 +5,7 @@
 [地址1](https://www.django-rest-framework.org/tutorial/quickstart/#testing-our-api)
 [地址2](https://www.django-rest-framework.org/tutorial/1-serialization/)
 
-# 命令
+## 命令
 
 * 创建一个项目叫做tutorial  
 ```django-admin startproject tutorial```
