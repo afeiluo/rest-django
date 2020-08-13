@@ -13,5 +13,21 @@
 * 创建一个app叫snippets  
 ```python manage.py startapp snippets```
 
+* 创建model变更  
+```python manage.py makemigrations app```
+
+* 查看model变更内容  
+```python manage.py sqlmigrate app 0001```
+
+* 将model变更更新到数据库
+```python manage.py migrate app```
+
+* 创建用户
+```python manage.py createsuperuser```
+
+* 查看数据库
+```python manage.py dbshell```
+[sqlite命令](https://www.runoob.com/sqlite/sqlite-commands.html)
+
 * 启动服务  
 ```python manage.py runserver```
