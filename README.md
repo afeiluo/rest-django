@@ -7,6 +7,9 @@
 
 ## 命令
 
+* 安装依赖  
+```pip install -r requirements.txt```
+
 * 创建一个项目叫做tutorial  
 ```django-admin startproject tutorial```
 
